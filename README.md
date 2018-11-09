@@ -1,8 +1,8 @@
-# Ultimate Vue.js Developers Course
+# Vue.js Cinema
 
 Source code for the [Ultimate Vue.js Developers Course](http://bit.ly/2mPK8ny).
 
-### Project 2: Vue.js Cinema
+
 
 #### Demo
 
