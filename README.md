@@ -1,8 +1,8 @@
-# Ultimate Vue.js Developers Course
+# Vue.js Cinema
 
-Source code for the [Ultimate Vue.js Developers Course](http://bit.ly/2mPK8ny).
+Source code for the case-study project from the course Build A Vue.js Single-Page App with Vue Router
 
-### Project 2: Vue.js Cinema
+
 
 #### Demo
 
