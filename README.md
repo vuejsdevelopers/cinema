@@ -1,8 +1,6 @@
-# Ultimate Vue.js Developers Course
+# Vue.js Cinema
 
-Source code for the [Ultimate Vue.js Developers Course](http://bit.ly/2mPK8ny).
-
-### Project 2: Vue.js Cinema
+Source code for the case-study project from the course Build A Vue.js Single-Page App with Vue Router
 
 #### Demo
 
@@ -56,5 +54,4 @@ Your site will be available at *localhost:[PORT]* where `PORT` is whatever value
 
 #### Lecture branches
 
-Note that branches in the repo named `lecture/xxx` correspond to course lectures.
-
+Note that branches in the repo named `video/xxx` correspond to course lectures.
