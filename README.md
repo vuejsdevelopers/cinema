@@ -56,4 +56,4 @@ Your site will be available at *localhost:[PORT]* where `PORT` is whatever value
 
 #### Lecture branches
 
-Note that branches in the repo named `lecture/xxx` correspond to course lectures.
+Note that branches in the repo named `video/xxx` correspond to course lectures.
